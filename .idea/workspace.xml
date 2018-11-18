@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d7dade3-8f4b-4f6c-8ec9-c190c9c1dfc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RepeatedString/RepeatedString.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RepeatedString/src/RepeatedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2DArrays/2DArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2DArrays/src/DS2DArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -31,23 +31,23 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="3" />
-          <entry key="java" value="6" />
+          <entry key="java" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2934" />
+          <entry key="java" value="3416" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2934" />
+          <entry key="JAVA" value="3416" />
         </counts>
       </usages-collector>
     </session>
@@ -101,13 +101,25 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RepeatedString/src/RepeatedString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="69" column="28" lean-forward="true" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+            <state relative-caret-position="340">
+              <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
               <folding>
                 <element signature="e#0#7#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2DArrays/src/DS2DArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#226#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -134,12 +146,13 @@
         <option value="$PROJECT_DIR$/SockMerchant/src/JumpingOnClouds.java" />
         <option value="$PROJECT_DIR$/CountingValleys/src/CountingValleys.java" />
         <option value="$PROJECT_DIR$/RepeatedString/src/RepeatedString.java" />
+        <option value="$PROJECT_DIR$/2DArrays/src/DS2DArray.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="702" />
-    <option name="y" value="736" />
+    <option name="x" value="1282" />
+    <option name="y" value="744" />
     <option name="width" value="1400" />
     <option name="height" value="1179" />
   </component>
@@ -156,6 +169,17 @@
             <path>
               <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="2DArrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="2DArrays" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
@@ -208,7 +232,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542562999366" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542570909581" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -226,10 +250,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RepeatedString">
+  <component name="RunManager" selected="Application.DS2DArray">
     <configuration name="CountingValleys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountingValleys" />
       <module name="CountingValleys" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DS2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DS2DArray" />
+      <module name="2DArrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -260,9 +291,11 @@
       <item itemvalue="Application.JumpingOnClouds" />
       <item itemvalue="Application.CountingValleys" />
       <item itemvalue="Application.RepeatedString" />
+      <item itemvalue="Application.DS2DArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DS2DArray" />
         <item itemvalue="Application.RepeatedString" />
         <item itemvalue="Application.CountingValleys" />
         <item itemvalue="Application.JumpingOnClouds" />
@@ -284,7 +317,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="702" y="736" width="1400" height="1179" extended-state="0" />
+    <frame x="1282" y="744" width="1400" height="1179" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18409425" />
@@ -296,15 +329,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32842687" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32842687" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39926404" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32934684" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32934684" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32934684" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -339,47 +372,47 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>s.length()</expression-string>
+        <expression-string>arr[0][0]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>n</expression-string>
+        <expression-string>arr[1][0]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>s.length()/</expression-string>
+        <expression-string>arr[2][0]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>s.length()/n</expression-string>
+        <expression-string>arr[5][0]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>s.substring(i, i+1)</expression-string>
+        <expression-string>arr[5][j]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>s.substring(i+1, i+2)</expression-string>
+        <expression-string>arr[4][j]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>Arrays.asList(ar).indexOf(storedSocks[0])</expression-string>
+        <expression-string>arr[3][j]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>storedSocks[0]</expression-string>
+        <expression-string>arr[2][j]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>Arrays.asList(ar).indexOf(3)</expression-string>
+        <expression-string>arr[1][j]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -436,10 +469,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RepeatedString/src/RepeatedString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="69" column="28" lean-forward="true" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+        <state relative-caret-position="340">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
           <folding>
             <element signature="e#0#7#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2DArrays/src/DS2DArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#226#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
