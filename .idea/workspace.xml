@@ -133,11 +133,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542499358717" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542499515835" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,7 +154,7 @@
   <component name="RunManager" selected="Application.JumpingOnClouds">
     <configuration name="JumpingOnClouds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JumpingOnClouds" />
-      <module name="SockMerchant" />
+      <module name="JumpingOnClouds" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
